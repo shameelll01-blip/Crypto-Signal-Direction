@@ -135,6 +135,7 @@ Interactive Controls
 Real-Time Prediction Engine
 Professional Analytics Layout
 Machine Learning Model Comparison
+https://crypto-signal-direction-jdamxc7syx9fpstzwsfa25.streamlit.app/
 ## Author
 Shameel m 
 
