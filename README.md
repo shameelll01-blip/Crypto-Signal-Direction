@@ -111,8 +111,6 @@ Upward Probability
 Downward Probability
 Selected Best Model
 ## Installation
-Clone Repository
-git clone https://github.com/yourusername/CryptoSignal-AI.git
 cd CryptoSignal-AI
 Install Dependencies
 pip install -r requirements.txt
